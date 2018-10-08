@@ -8,6 +8,7 @@
     "url": "git://github.com/Letra312/react-scaffold.git"
   },
   "scripts": {
+    "dev": "npm start",
     "start": "node build/start.js",
     "build": "node build/build.js"
   },
@@ -32,11 +33,12 @@
     "node-sass": "^4.9.3",
     "parcel-bundler": "^1.10.1",
     "parcel-plugin-eslint": "^1.0.4",
-    "sass": "^1.14.1"
+    "sass": "^1.14.1",
+    "postcss-modules": "^1.4.1",
+    "autoprefixer": "^9.1.5"
   },
   "dependencies": {
     "babel-polyfill": "^6.26.0",
-    "@babel/runtime": "^7.0.0",
     "classnames": "^2.2.6",
     "prop-types": "^15.6.2",
     "react": "^16.5.2",
