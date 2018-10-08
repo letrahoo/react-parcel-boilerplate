@@ -13,7 +13,7 @@ yarn-error.log*
 # some broken files
 *.swp
 
-# Mac OS congigure file
+# Mac OS configure file
 .DS_Store
 
 # idea configure directory
