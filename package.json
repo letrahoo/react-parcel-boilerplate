@@ -1,0 +1,41 @@
+{
+  "name": "react-parcel-boilerplate",
+  "version": "1.0.0",
+  "description": "A react project boilerplate built with parcel",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node build/start.js",
+    "build": "node build/build.js"
+  },
+  "keywords": [
+    "boilerplate",
+    "react"
+  ],
+  "author": "Letra <hxq15827562797@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^10.0.1",
+    "babel-plugin-transform-react-jsx-source": "^6.22.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.11.1",
+    "node-sass": "^4.9.3",
+    "parcel-bundler": "^1.10.1",
+    "parcel-plugin-eslint": "^1.0.4",
+    "sass": "^1.14.1"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "@babel/runtime": "^7.0.0",
+    "classnames": "^2.2.6",
+    "prop-types": "^15.6.2",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  }
+}
