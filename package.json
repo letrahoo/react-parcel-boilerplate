@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "A react project boilerplate built with parcel",
   "main": "src/main.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Letra312/react-scaffold.git"
+  },
   "scripts": {
     "start": "node build/start.js",
     "build": "node build/build.js"
